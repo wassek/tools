@@ -27,7 +27,7 @@
     </parent>
 
     <artifactId>tools</artifactId>
-    <version>4.2.0</version>
+    <version>4.2.1</version>
     <packaging>bundle</packaging>
     <name>Support Tools</name>
     <description>Digital Experience Manager Support Tools</description>
